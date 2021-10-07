@@ -40,6 +40,7 @@
     $bilangan = substr($nomatrik, $lokasi);
     echo "<p>Bilangan: $bilangan</p>";
     ?>
+    
 </body>
 
 </html>
